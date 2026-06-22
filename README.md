@@ -16,6 +16,6 @@
 
 邮箱：[scophire@proton.me](mailto:scophire@proton.me)
 
-**请使用下列语言中的任一与我联系：**
+**工作语言**
 - 🇨🇳 简体中文
 - 🇺🇸 English
