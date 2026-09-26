@@ -1,4 +1,4 @@
-# 👋 Hi, I'm BluewhaleYF
+# 👋 Hi, I'm BluewhaleYF!
 
 * 我是 **BluewhaleYF**，来自中国
 * 一名高中生，目前正在学习 **AP Computer Science A**
