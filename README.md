@@ -1,21 +1,73 @@
-# 👋 欢迎访问我的Github个人资料页面！
-- 我是BluewhaleYF，来自中国
-- 一名Github新手，业余程序员
-- ~~基于AI编程~~
+# 👋 Hi, I'm BluewhaleYF
+
+* 我是 **BluewhaleYF**，来自中国
+* 一名高中生，目前正在学习 **AP Computer Science A**
+* 对编程、Linux、开源软件和计算机技术感兴趣
+* 喜欢自己折腾软件、系统和各种技术项目
 
 **仍在学习，请多关照！**
 
-## 我使用的编程语言
-![HTML5](https://camo.githubusercontent.com/4e39004843387226e83eaacfb24a8df02adb769152f2f7f3db1926cb04500f6d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
-![CSS3](https://camo.githubusercontent.com/3f1b0ba4fa782af96fd436adcddc8716248a6b5c93d78c8ad742611357bed209/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465)
-![Markdown](https://camo.githubusercontent.com/1249cad545c270d9fa57ecbb5f4c55d66be7729fca2e696a07d43babfb9bcf48/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d61726b646f776e2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d61726b646f776e266c6f676f436f6c6f723d7768697465)
-![C](https://camo.githubusercontent.com/b449f10e4a9af27bbe5db205b455a8f1a80d1c71f816b094bcf998c252627fec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465)
-![Dart](https://camo.githubusercontent.com/1a4ea15d472e6b0214711a83346c566f2ed4efecf62c4c29efb92a2f89c11256/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646172742d2532333031373543322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d64617274266c6f676f436f6c6f723d7768697465)
+📝 **我的博客：[ScophireSpace](https://blog.scophire.space)**
 
-## 如何联系我
+## 🧠 我正在学习
+
+* **Java** — AP Computer Science A
+* **Flutter / Dart** — 参与 Solian 开发
+* **Git / GitHub** — 版本控制与开源协作
+* **Linux** — 日常使用与系统折腾
+
+## 🛠️ 我使用的编程语言
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge\&logo=dart\&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge\&logo=markdown\&logoColor=white)
+
+## 📬 联系我
 
 邮箱：[scophire@proton.me](mailto:scophire@proton.me)
 
-**工作语言**
-- 🇨🇳 简体中文
-- 🇺🇸 English
+## 💬 工作语言
+
+* 🇨🇳 简体中文
+* 🇺🇸 English
+
+---
+
+# 👋 Hi, I'm BluewhaleYF!
+
+* I'm a **high school student from China**
+* Currently studying **AP Computer Science A**
+* Interested in programming, Linux, open-source software, and computer science
+* I enjoy experimenting with software, systems, and various technical projects
+
+**Still learning, always improving!**
+
+📝 **My Blog: [ScophireSpace](https://blog.scophire.space)**
+
+## 🧠 Currently Learning
+
+* **Java** — AP Computer Science A
+* **Flutter / Dart** — Contributing to Solian development
+* **Git / GitHub** — Version control and open-source collaboration
+* **Linux** — Daily use and system exploration
+
+## 🛠️ Languages
+
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge\&logo=dart\&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge\&logo=markdown\&logoColor=white)
+
+## 📬 Contact
+
+Email: [scophire@proton.me](mailto:scophire@proton.me)
+
+## 💬 Languages
+
+* 🇨🇳 Simplified Chinese
+* 🇺🇸 English
